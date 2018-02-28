@@ -1,0 +1,32 @@
+.container-fluid {
+  margin-left: 0%;
+  margin-right: 0%;
+  text-align: center;
+}
+.row-header {
+  background-image: url(../img/backgrounds/landing.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-bottom: 15%;
+  padding-right: 30%;
+  padding-left: 30%;
+  margin: 0%;
+}
+
+.logo {
+  align-items: center;
+  margin-top: 10%;
+}
+
+.logo-text-1 {
+  text-align: center;
+  color: white;
+  margin-top: 20%
+}
+
+.logo-text-2 {
+  text-align: center;
+  color: white;
+  margin-bottom: 0%;
+}
