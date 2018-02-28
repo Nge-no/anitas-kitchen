@@ -162,3 +162,44 @@
   font-size: 16px;
   cursor: pointer;
 }
+#gallery-row {
+  background-image: url(../img/backgrounds/foodsBg.jpg);
+  background-repeat: no-repeat;
+  background-position: center center;
+  background-size: cover;
+  padding-left: 30%;
+  padding-top: 15%;
+  padding-bottom: 15%;
+}
+
+#tabs {
+  background-color: lightgrey;
+  border: 1px solid grey;
+  padding-top: 1%;
+  padding-bottom: 1%;
+  align-items: center;
+  justify-content: center;
+}
+
+#tabs:hover {
+  color: #f15a29;
+  background-color: white;
+}
+
+#food-row {
+  padding-right: 3.5%;
+  padding-left: 2.5%;
+  padding-top: 2.5%;
+  padding-bottom: 2.5%;
+  background-color: white;
+}
+
+#food-row p {
+  color: #f15a29;
+}
+
+.box {
+  padding-left: 200%;
+  background-color: white;
+  padding: 0%;
+}
