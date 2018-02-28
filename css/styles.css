@@ -102,3 +102,63 @@
   padding-top: 25%;
   color: white;
 }
+#fast-foods {
+  margin-top: 5%;
+  margin-bottom: 5%;
+  margin-left: 10%;
+  margin-right: 10%;
+}
+
+#box-fast-food {
+  margin-top: 10%;
+  margin-bottom: 10%;
+}
+
+#fast-food-text {
+  text-align: left;
+}
+
+.fast-food-h2 {
+  margin-top: 20%;
+  margin-bottom: 5%;
+}
+
+.btn-fast-food {
+  border: 2px solid #f15a29;
+  background-color: white;
+  color: #f15a29;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+  margin-bottom: 20%;
+}
+
+#drinks {
+  margin-top: 10%;
+  margin-bottom: 5%;
+  margin-left: 0%;
+  margin-right: 0%;
+}
+
+#box-drinks {
+  margin-top: -30%;
+  margin-bottom: 10%;
+}
+
+#drinks-text {
+  text-align: right;
+}
+
+.drinks-h2 {
+  margin-top: -25%;
+  margin-bottom: 5%;
+}
+
+.btn-drinks {
+  border: 2px solid #f15a29;
+  background-color: white;
+  color: #f15a29;
+  padding: 14px 28px;
+  font-size: 16px;
+  cursor: pointer;
+}
