@@ -203,3 +203,14 @@
   background-color: white;
   padding: 0%;
 }
+#customers {
+  padding: 2.5%;
+}
+
+#customers h4 {
+  color: #f15a29;
+}
+
+#happy-customers {
+  padding: 2.5%;
+}
