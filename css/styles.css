@@ -3,11 +3,41 @@
   margin-right: 0%;
   text-align: center;
 }
+
+#open-menu, #close-menu {
+  color: white;
+  position: absolute;
+  font-size: 450%;
+  left: 5%;
+  top: 5%;
+}
+
+#main-menu {
+  position: absolute;
+  justify-content: center;
+  align-items: center;
+  height: 100vh;
+  width: 200vh;
+  z-index: 100;
+  background-color: #f15a29;
+  color: black;
+  left: -200%;
+}
+
+#main-menu ul {
+  font-size: 300%;
+  list-style: none;
+}
+
+#main-menu a {
+  color: white;
+}
+
 .row-header {
   background-image: url(../img/backgrounds/landing.jpg);
   background-repeat: no-repeat;
   background-position: center center;
-  background-size:cover;
+  background-size: cover;
   padding-bottom: 15%;
   padding-right: 30%;
   padding-left: 30%;
@@ -30,6 +60,7 @@
   color: white;
   margin-bottom: 0%;
 }
+
 #happy-hour {
   background-color: lightgrey;
   align-items: center;
@@ -102,6 +133,7 @@
   padding-top: 25%;
   color: white;
 }
+
 #fast-foods {
   margin-top: 5%;
   margin-bottom: 5%;
@@ -162,6 +194,7 @@
   font-size: 16px;
   cursor: pointer;
 }
+
 #gallery-row {
   background-image: url(../img/backgrounds/foodsBg.jpg);
   background-repeat: no-repeat;
@@ -203,6 +236,7 @@
   background-color: white;
   padding: 0%;
 }
+
 #customers {
   padding: 2.5%;
 }
@@ -214,9 +248,11 @@
 #happy-customers {
   padding: 2.5%;
 }
+
 #about-menu {
   padding: 2.5%;
 }
+
 #subscription-menu {
   background-image: url(../img/backgrounds/subscribe.jpg);
   background-repeat: no-repeat;
@@ -259,6 +295,7 @@
   font-size: 20px;
   cursor: pointer;
 }
+
 footer {
   background-color: #f15a29;
   padding-top: 2.5%;
