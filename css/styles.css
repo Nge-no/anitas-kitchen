@@ -259,3 +259,35 @@
   font-size: 20px;
   cursor: pointer;
 }
+footer {
+  background-color: #f15a29;
+  padding-top: 2.5%;
+  position: relative;
+  color: white;
+  margin: 0%;
+}
+
+.footer-logo {
+  margin-left: 0%;
+}
+
+#footnote h2 {
+  padding-left: 30%;
+}
+
+.img1 {
+  margin-left: 31%;
+  s
+}
+
+.footer-text-1 {
+  color: white;
+  margin-bottom: 5%;
+  padding-left: 25%;
+}
+
+.footer-text-2 {
+  color: white;
+  margin-top: 10%;
+  padding-left: 28%;
+}
